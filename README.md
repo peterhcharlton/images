@@ -20,7 +20,7 @@ License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses
 
 [![Respiratory Modulations](https://cloud.githubusercontent.com/assets/9865941/25529722/381c9770-2c1b-11e7-839d-56e1cbb70172.jpg)](https://cloud.githubusercontent.com/assets/9865941/25529763/67359322-2c1b-11e7-84ae-0621126326f5.png)
 
-*A diagram of three idealised respiratory modulations of the ECG and PPG: baseline wander (BW), amplitude modulation (AM) and frequency modulation (FM).*
+*A diagram of three idealised respiratory modulations of the ECG and PPG: baseline wander (BW), amplitude modulation (AM) and frequency modulation (FM). Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v2.0/Publication_Specific_Scripts/make_respiratory_modulations_plot.m).*
 
 Source: P. H. Charlton and T. Bonnici *et al.*, An assessment of algorithms to estimate respiratory rate from the electrocardiogram and photoplethysmogram, Physiological Measurement, vol. 37(4), 2016. DOI: [10.1088/0967-3334/37/4/610](http://doi.org/10.1088/0967-3334/37/4/610)
 
