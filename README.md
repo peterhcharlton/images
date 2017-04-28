@@ -30,7 +30,7 @@ License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/
 
 [![Respiratory Signals](https://cloud.githubusercontent.com/assets/9865941/25533690/617f4492-2c29-11e7-917a-27cfc91b1800.png)](https://cloud.githubusercontent.com/assets/9865941/25533690/617f4492-2c29-11e7-917a-27cfc91b1800.png)
 
-*A diagram of the extraction of respiratory signals from the PPG. Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v2.0/Publication_Specific_Scripts/make_respiratory_modulations_plot.m).*
+*A diagram of the extraction of respiratory signals from the PPG. Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v2.0/Publication_Specific_Scripts/make_feature_filter_respiratory_signals_plot.m).*
 
 Source: P. H. Charlton and T. Bonnici *et al.*, Extraction of respiratory signals from the electrocardiogram and photoplethysmogram: technical and physiological determinants, Physiological Measurement, 38(5), 2017. DOI: [10.1088/1361-6579/aa670e](http://doi.org/10.1088/1361-6579/aa670e)
 
