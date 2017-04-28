@@ -10,4 +10,4 @@ This repository provides links to a library of images which I have used in my re
 
 Source: P. H. Charlton, The Processes and Benefits of Sharing Clinical Data, Science and Engineering South Data Dialogue Event, Cambridge, UK, 2016. DOI: [10.5281/zenodo.166546](http://doi.org/10.5281/zenodo.166546)
 
-This presentation is available at: https://doi.org/10.5281/zenodo.166546 . It is licensed under the Creative Commons Attribution 4.0 License, which is available at: https://creativecommons.org/licenses/by/4.0/
+License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
