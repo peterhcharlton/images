@@ -1,9 +1,13 @@
 # A library of publicly available images
 
-This repository provides links to a library of images which I have used in my research, and can be reused subject to the license conditions.
+This repository provides links to a library of images which I have used in my research, and can be reused subject to the license conditions. Click on the images for the full size versions.
 
 ## Wearable Sensors
 
 ### Wireless Wrist Pulse Oximeter
 
-![Wireless Wrist Pulse Oximeter](https://cloud.githubusercontent.com/assets/9865941/25527219/ab58ab18-2c0f-11e7-98fc-4f89a8469d64.jpg)
+[![Wireless Wrist Pulse Oximeter](https://cloud.githubusercontent.com/assets/9865941/25527219/ab58ab18-2c0f-11e7-98fc-4f89a8469d64.jpg)](https://zenodo.org/record/569814/files/wrist_pulse_oximeter.jpg)
+
+Image from: P. H. Charlton, The Processes and Benefits of Sharing Clinical Data, Science and Engineering South Data Dialogue Event, Cambridge, UK, 2016. DOI: 10.5281/zenodo.166546
+
+This presentation is available at: https://doi.org/10.5281/zenodo.166546 . It is licensed under the Creative Commons Attribution 4.0 License, which is available at: https://creativecommons.org/licenses/by/4.0/
