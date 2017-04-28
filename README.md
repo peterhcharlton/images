@@ -8,7 +8,7 @@ This repository provides links to a library of images which I have used in my re
 
 [![Wireless Wrist Pulse Oximeter](https://cloud.githubusercontent.com/assets/9865941/25527219/ab58ab18-2c0f-11e7-98fc-4f89a8469d64.jpg)](https://zenodo.org/record/569814/files/wrist_pulse_oximeter.jpg)
 
-A photo of a WristOx2®, Model 3150 Wrist-worn Pulse Oximeter.
+*A photo of a WristOx2®, Model 3150 Wrist-worn Pulse Oximeter.*
 
 Source: P. H. Charlton, The Processes and Benefits of Sharing Clinical Data, Science and Engineering South Data Dialogue Event, Cambridge, UK, 2016. DOI: [10.5281/zenodo.166546](http://doi.org/10.5281/zenodo.166546)
 
