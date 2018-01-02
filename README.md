@@ -36,3 +36,16 @@ Source: P. H. Charlton and T. Bonnici *et al.*, Extraction of respiratory signal
 
 License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+### Feature-based extraction of respiratory signals from the electrocardiogram (ECG) and photoplethysmogram (PPG)
+
+[![Feature-based Extraction](https://cloud.githubusercontent.com/assets/9865941/25533690/617f4492-2c29-11e7-917a-27cfc91b1800.png)](https://cloud.githubusercontent.com/assets/9865941/25533690/617f4492-2c29-11e7-917a-27cfc91b1800.png)
+
+*A diagram of feature-based extraction of respiratory signals from the ECG and PPG. Measurements of baseline
+wander (BW), amplitude modulation (AM) and frequency modulation (FM) have been extracted for each beat from fiducial points (shown as dots). Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v2.0/Publication_Specific_Scripts/make_feature_filter_respiratory_signals_plot.m).*
+
+Source: P. H. Charlton *et al.*, Breathing Rate Estimation from the Electrocardiogram and Photoplethysmogram: A Review, IEEE Reviews in Biomedical Engineering, 2017, Fig. 4. DOI: [10.1109/RBME.2017.2763681](http://doi.org/10.1109/RBME.2017.2763681)
+
+License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+
+
