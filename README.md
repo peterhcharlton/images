@@ -47,5 +47,14 @@ Source: P. H. Charlton *et al.*, Breathing Rate Estimation from the Electrocardi
 
 License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+### Comparison of photoplethysmogram (PPG) signals acquired at rest and whilst walking
+
+[![Rest vs Walk PPG](https://user-images.githubusercontent.com/9865941/48299194-c46b7d80-e4c1-11e8-8b95-d49abe580f07.png)](https://user-images.githubusercontent.com/9865941/48299194-c46b7d80-e4c1-11e8-8b95-d49abe580f07.png)
+
+*A diagram comparing photoplethysmogram (PPG) signals from a young, healthy volunteer whilst at rest, and whilst walking. Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/RRest/master/RRest_v3.0/Publication_Specific_Scripts/make_rest_vs_walk_ppg_plot.m).*
+
+Adapted from: M. A. F. Pimentel *et al.*, Probabilistic estimation of respiratory rate from wearable sensors. In Wearable Electronics Sensors; Mukhopadhyay, S. C., Ed.; Springer International Publishing, 2015; Vol. 15, pp. 241–62, Fig. 1. DOI: [10.1007/978-3-319-18191-2_10](http://doi.org/10.1007/978-3-319-18191-2_10)
+
+Please cite this article when using this image, saying that it has been adapted.
 
 
