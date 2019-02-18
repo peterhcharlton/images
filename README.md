@@ -47,6 +47,8 @@ Source: P. H. Charlton *et al.*, Breathing Rate Estimation from the Electrocardi
 
 License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
 
+## The Photoplethysmogram (PPG) signal
+
 ### Comparison of photoplethysmogram (PPG) signals acquired at rest and whilst walking
 
 [![Rest vs Walk PPG](https://user-images.githubusercontent.com/9865941/48299194-c46b7d80-e4c1-11e8-8b95-d49abe580f07.png)](https://user-images.githubusercontent.com/9865941/48299194-c46b7d80-e4c1-11e8-8b95-d49abe580f07.png)
