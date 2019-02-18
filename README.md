@@ -57,4 +57,14 @@ Adapted from: M. A. F. Pimentel *et al.*, Probabilistic estimation of respirator
 
 Please cite this article when using this image, saying that it has been adapted.
 
+### Origins of the photoplethysmogram (PPG) signal
 
+[![PPG signal](https://user-images.githubusercontent.com/9865941/52956852-3ccac000-3388-11e9-9bf0-5a3eff693367.png)](https://user-images.githubusercontent.com/9865941/52956852-3ccac000-3388-11e9-9bf0-5a3eff693367.png)
+
+[![PPG signal components](https://user-images.githubusercontent.com/9865941/52956857-405e4700-3388-11e9-94d9-66daaae994ae.png)](https://user-images.githubusercontent.com/9865941/52956857-405e4700-3388-11e9-94d9-66daaae994ae.png)
+
+*A diagram illustrating the simplified origins of light attenuation which form the PPG signal (arterial blood, venous blood and other tissues). Note that the Matlab ® code used to create this image is available [here](https://raw.githubusercontent.com/peterhcharlton/pwdb/master/pwdb_v1.0/publication_specific_scripts/ppg_components_plot.m).*
+
+Adapted from slide 7 of: Peter H Charlton. (2018, August). Capitalising on Smart Wearables to Improve Health Monitoring. Zenodo. DOI: [10.5281/zenodo.1406011](http://doi.org/10.5281/zenodo.1406011)
+
+Please cite this presentation when using this image, saying that it has been adapted.
