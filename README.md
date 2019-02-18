@@ -2,6 +2,8 @@
 
 This repository provides links to a library of images which I have used in my research, and can be reused subject to the license conditions. Click on the images for the full size versions.
 
+---
+
 ## Wearable Sensors
 
 ### Wireless Wrist Pulse Oximeter
@@ -13,6 +15,8 @@ This repository provides links to a library of images which I have used in my re
 Source: P. H. Charlton, The Processes and Benefits of Sharing Clinical Data, Science and Engineering South Data Dialogue Event, Cambridge, UK, 2016. DOI: [10.5281/zenodo.166546](http://doi.org/10.5281/zenodo.166546)
 
 License: [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
 
 ## Respiratory Rate Estimation
 
@@ -46,6 +50,8 @@ wander (BW), amplitude modulation (AM) and frequency modulation (FM) have been e
 Source: P. H. Charlton *et al.*, Breathing Rate Estimation from the Electrocardiogram and Photoplethysmogram: A Review, IEEE Reviews in Biomedical Engineering, 2017, Fig. 4. DOI: [10.1109/RBME.2017.2763681](http://doi.org/10.1109/RBME.2017.2763681)
 
 License: [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)
+
+---
 
 ## The Photoplethysmogram (PPG) signal
 
